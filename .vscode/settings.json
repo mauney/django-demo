@@ -1,4 +1,6 @@
 {
     "python.pythonPath": "/home/matt/.local/share/virtualenvs/django-demo-OimLYRmG/bin/python",
-    "python.linting.enabled": false
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintEnabled": true
 }
